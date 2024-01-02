@@ -4,7 +4,7 @@
 
 
 
-# 1 Circle Class
+# 1. Write a class for a Circle to show it's radius of the circle.
 
 The `Circle` class represents a circle with properties for radius and color. It includes methods to manipulate these properties and calculate the area and circumference of the circle.
 
@@ -30,7 +30,7 @@ The `Circle` class represents a circle with properties for radius and color. It 
 - `getCircumference(): double`: Calculates and returns the circumference of the circle.
 
 
-# 2 Movie Class
+# 2. Write Movie Class to show it's ratings.
 
 The `Movie` class represents a film with properties for the title, studio, and rating. It includes a static method to filter movies by rating.
 
@@ -52,7 +52,7 @@ class Movie {
   }
 }
 ```
-# 3 Person Class
+# 3. Write a “person” class to hold all the details.
 
 The `Person` class is a JavaScript implementation representing an individual with properties for name, age, and address. It includes methods to retrieve and update these details.
 
@@ -68,9 +68,9 @@ class Person {
     this.address = address;
   }
 ```
-# 4 UberPriceCalculator Class
+# 4. write a class to calculate the Uber price.
 
-The `UberPriceCalculator` class is a JavaScript implementation that calculates the price of an Uber ride based on the distance and time. It includes a constructor for setting the base fare, cost per kilometer, cost per minute, and currency, as well as a method to calculate the total price.
+The `Uber` class is a JavaScript implementation that calculates the price of an Uber ride based on the distance and time. It includes a constructor for setting the base fare, cost per kilometer, cost per minute, and currency, as well as a method to calculate the total price.
 
 ## Class Structure
 
